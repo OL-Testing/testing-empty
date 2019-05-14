@@ -1,0 +1,11 @@
+---
+version: 1
+service:
+  name: Test Service
+  lifecycle: alpha
+  tier: tier_1
+  product: Realtime Service
+  owner: realtime
+  language: Ruby
+  framework: 
+  description: 'Foo '
